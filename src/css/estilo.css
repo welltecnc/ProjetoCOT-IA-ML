@@ -1,0 +1,41 @@
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card{
+    background: gray;
+    margin-top: 50px;
+    padding:40px;
+    border-radius: 10px;
+    text-align: center;
+}
+h1{
+    margin-bottom: 20px;
+}
+
+p{
+    margin-bottom: 30px;
+    color:#fff;
+}
+.btn-pdf{
+    background: #2563fb;
+    color:white;
+    padding: 12px 24px;
+    margin: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    cursor:pointer;
+    display: inline-block;
+}
+.btn-pdf:hover{
+    background: blue;
+}
