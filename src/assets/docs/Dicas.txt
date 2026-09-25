@@ -1,0 +1,13 @@
+Chain-of-Thought (CoT) para Memoriais de Cálculo
+
+O Chain-of-Thought (Cadeia de Pensamento) é uma técnica de engenharia de prompts que orienta a Inteligência Artificial a pensar passo a passo antes de entregar a resposta final.
+
+Aplicado a memoriais de cálculo (seja na engenharia, arquitetura, contabilidade ou finanças), o CoT evita que a IA simplesmente chute ou pule direto para o resultado numérico. Em vez disso, ela simula o raciocínio lógico de um profissional humano, detalhando premissas, fórmulas, etapas intermediárias e verificações.
+
+Contexto e Premissas: O template define claramente o escopo do cálculo
+
+Decomposição do Problema (Passo a Passo):
+
+Execução e Memória de Cálculo: Para cada etapa
+
+ Conclusão e Consistência: A IA sintetiza os resultados finais e realiza uma verificação de sanidade para garantir que os números fazem sentido prático.
